@@ -1,1 +1,1 @@
-# LeetCode
+# Repository for solutions of problems on LeetCode platform.
